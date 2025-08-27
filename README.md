@@ -24,8 +24,7 @@ YumMate is a mobile recipe recommendation app built with **React Native**. It he
 - AsyncStorage for local storage
 
 **Backend:**
-- Node.js / Express
-- Firebase (for notifications)
+- Node.js / Expressjs
 - REST API for recipe fetching
 
 **Other Tools:**
@@ -39,7 +38,7 @@ YumMate is a mobile recipe recommendation app built with **React Native**. It he
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/20255-CM-055/YumMate
    cd yummate
 
 2. **Install frontend dependencies:**
